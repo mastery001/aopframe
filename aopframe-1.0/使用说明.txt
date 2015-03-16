@@ -1,0 +1,9 @@
+首先先将此包添加到myeclipse中
+此包中存在四个接口，都要一一实现
+BeforeAdvice接口		
+AfterAdvice接口
+MethodInterceptor接口
+ThrowsAdvice接口
+
+然后分别写四个实现上述四个接口的实现类，然后将四个类配置到config.properties文件中，详细配置可参照目录下的这个配置文件
+
